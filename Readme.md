@@ -14,7 +14,7 @@ http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
 
 Tips: If you define a 2016-xx-xxaxx.html, your default name of your document is xxaxx.
 
-### 1)If you use the default document name, then you will have to type as follows:
+### 1) If you use the default document name, then you will have to type as follows:
 ```
 ---
 layout: default
@@ -22,7 +22,7 @@ layout: default
 blablabla   --your document
 ```
 
-### 2)If you want to change the title(for example: KFC), then you type:
+### 2) If you want to change the title(for example: KFC), then you type:
 ```
 ---
 layout: default
